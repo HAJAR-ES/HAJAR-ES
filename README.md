@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi, I'm Hajar Essaidi 👋<br><br>🎓 CS Engineering Student @ ENSIASD, Morocco  <br>💻 Java Lover | 🌱 Learning Full-Stack Dev | 🚀 Building in Public<br><br>## 🚧 Current Projects<br>- 🌐 Portfolio website (coming soon!)<br>- 📚 Java & school projects<br>- 🛠️ Tools built during internships<br><br>## 💡 Interests<br>- Java | Web Dev | Clean Code  <br>- Sharing what I build & learn 📢<br><br>## 📫 Connect with me<br>[LinkedIn](https://www.linkedin.com/in/hajar-essaidi) • [Twitter](https://x.com/Essaidi1Hajar)<br>
+# Hi, I'm Hajar Essaidi 👋<br><br>🎓 CS Engineering Student @ ENSIASD, Morocco  <br>💻 Java Lover | 🌱  Full-Stack Dev | 🚀 Building in Public<br><br>## 🚧 Current Projects<br>- 🌐 Portfolio website (coming soon!)<br>- 📚 Java & school projects<br>- 🛠️ Tools built during internships<br><br>## 💡 Interests<br>- Java | Web Dev | Clean Code  <br>- Sharing what I build & learn 📢<br><br>## 📫 Connect with me<br>[LinkedIn](https://www.linkedin.com/in/hajar-essaidi) • [Twitter](https://x.com/Essaidi1Hajar)<br>
 
 
 ## 🌐 Socials:
